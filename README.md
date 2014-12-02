@@ -52,4 +52,4 @@ In addition to these scripts, check out the following official functions from BI
 
 As well as some built in commands:
 
-* [setFog](https://community.bistudio.com/wiki/)
+* [setFog](https://community.bistudio.com/wiki/setFog)
