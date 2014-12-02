@@ -2,6 +2,7 @@
 
   author: Hoizen @ http://ironfistgaming.com
   title: sandstorm.sqf
+  description: called with [] execVM "sandstorm.sqf"
 
 */
 
