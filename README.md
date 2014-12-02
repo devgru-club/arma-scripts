@@ -49,3 +49,7 @@ In addition to these scripts, check out the following official functions from BI
 * [BIS_fnc_help](https://community.bistudio.com/wiki/BIS_fnc_help)
 * [BIS_fnc_playVideo](https://community.bistudio.com/wiki/BIS_fnc_playVideo)
 * [BIS_fnc_taskPatrol](https://community.bistudio.com/wiki/BIS_fnc_taskPatrol)
+
+As well as some built in commands:
+
+* [setFog](https://community.bistudio.com/wiki/)
