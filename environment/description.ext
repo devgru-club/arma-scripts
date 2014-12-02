@@ -1,0 +1,16 @@
+/*
+
+  author: Hoizen @ http://ironfistgaming.com
+  title: description.ext
+  description: admin / gui for choosing weather affects
+  
+*/
+
+class params {
+  class SandStormParam {
+    title = "Sand Storm";
+    values[] = {0, 1, 2, 3};
+    texts[] = {"None", "Light", "Medium", "Heavy"};
+    default = 1;
+  };
+};
