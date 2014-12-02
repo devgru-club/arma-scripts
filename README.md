@@ -24,6 +24,7 @@ These scripts are largely from resources I've used while working on sqf projects
 ### BIS functions
 Unsure of where to start? Be sure to scrutinize the following official functions from BIS, as they add a ton of functionality and make scripting appear much less daunting (much of the *heavy lifting* of creating Arma projects has already been handled by BIS in one form or another, especially now that the series has built upon so many iterations):
 
+* [BIS_fnc_param](https://community.bistudio.com/wiki/BIS_fnc_param) - input validation and set default values
 * [BIS_fnc_3Dcredits](https://community.bistudio.com/wiki/BIS_fnc_3Dcredits)
 * [BIS_fnc_infoText](https://community.bistudio.com/wiki/BIS_fnc_infoText)
 * [BIS_fnc_saveGame](https://community.bistudio.com/wiki/BIS_fnc_saveGame)
