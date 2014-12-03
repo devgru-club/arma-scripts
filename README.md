@@ -65,3 +65,17 @@ Unsure of where to start? Be sure to scrutinize the following official functions
 Additionally, here are the built in commands I found most applicable:
 
 * [setFog](https://community.bistudio.com/wiki/setFog)
+
+### Support call-ins
+
+Official BIS content:
+
+* [Communications menu](https://community.bistudio.com/wiki/Arma_3_Communication_Menu)
+* [Notifications](https://community.bistudio.com/wiki/Notification)
+* [Add support link](https://community.bistudio.com/wiki/BIS_fnc_addSupportLink)
+* [Limit available support calls](https://community.bistudio.com/wiki/BIS_fnc_limitSupport)
+
+Other resources:
+
+* [Forum thread](http://forums.bistudio.com/showthread.php?158314-Need-a-little-help-with-a-support-module) on interactions between support modules and sqf scripts
+* [Forum thread](http://forums.bistudio.com/archive/index.php/t-165086.html) on initializing a support requester
