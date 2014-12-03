@@ -78,3 +78,4 @@ Official BIS content:
 Other resources:
 
 * [Forum thread](http://forums.bistudio.com/showthread.php?158314-Need-a-little-help-with-a-support-module) on interactions between support modules and sqf scripts
+* [Forum thread](http://forums.bistudio.com/archive/index.php/t-165086.html) on initializing a support requester
