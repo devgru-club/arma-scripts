@@ -1,10 +1,12 @@
 
-## Example
+## Extensions Example
 
+```
 // using the C++11 native thread library
 **SQF:** `call callExtension "someExtension.dll"; // initial request`
 **Extension:** `[...] # spawn a worker thread and detach it`
 **SQF:** `call callExtension "someExtension.dll"; // check for result`
+```
 
 ## Ticket System:
 Mechanism to retrieve the data from the worker thread. Useful if the client will have to wait for a calculation.
