@@ -4,7 +4,7 @@ As I've started to work on projects to extend the replayability of Arma, I have 
 
 1. Arma is a game that rewards those who can stomach an hour so of initial setup time
 2. While there are pockets of individuals who hail from a technical background, much of the development community surrounding Arma (and FPS games in general) don't always articulate their discoveries through the same channels as other developers (i.e. [GitHub](http://github.com)).
-3. The official [BIS wiki](https://community.bistudio.com/wiki/Main_Page) is an excellent resource, but a [required reading](#) list will help *alot* with limiting any time spent ramming one's head into a hard metaphorical surface. -- *I wasn't able to really appreciate the site until I found others referencing articles related to the core materials of sqf scripting really. Could be user error though ;)*
+3. The official [BIS wiki](https://community.bistudio.com/wiki/Main_Page) is an excellent resource, but a [required reading](/pages/required-reading.md) list will help *alot* with limiting any time spent ramming one's head into a hard metaphorical surface. -- *I wasn't able to really appreciate the site until I found others referencing articles related to the core materials of sqf scripting really. Could be user error though ;)*
 
 Therefore, I have started this collection of useful sqf scripts and guides, most of which I have streamlined and provided examples to.
 
