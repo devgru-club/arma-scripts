@@ -1,11 +1,12 @@
 
 ## Extensions Example
 
-```
+```sqf
 // using the C++11 native thread library
-**SQF:** `call callExtension "someExtension.dll"; // initial request`
-**Extension:** `[...] # spawn a worker thread and detach it`
-**SQF:** `call callExtension "someExtension.dll"; // check for result`
+
+call callExtension "someExtension.dll"; // initial client request
+[...] spawn workerThread; detach        // server eventHandler for _x request responds
+call callExtension "someExtension.dll"; // client follow-up to receive calculated values
 ```
 
 ## Ticket System:
