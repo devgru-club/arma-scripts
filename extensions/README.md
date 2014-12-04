@@ -9,7 +9,7 @@ call callExtension "someExtension.dll"; // initial client request
 call callExtension "someExtension.dll"; // client follow-up to receive calculated values
 ```
 
-## Ticket System:
+## [Ticket System](#)
 Mechanism to retrieve the data from the worker thread. Useful if the client will have to wait for a calculation.
 
 * client submits a task
@@ -17,7 +17,7 @@ Mechanism to retrieve the data from the worker thread. Useful if the client will
 * client submits ticket
 * client either receives results OR receives a wait indicator and resubmits request after specified period
 
-## Dynamic Calculators:
+## [Dynamic Calculators](#)
 Mechanism to provide dynamic calculations separate from primary server tasks.
 
 * unit behavior
