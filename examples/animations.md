@@ -1,4 +1,4 @@
-The following are useful snippets of sqf code relating to waypoint creation and management.
+The following are useful snippets of sqf code relating to animating units.
 
 ```sqf
 // play animation on unit; gear not modified
