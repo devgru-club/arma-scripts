@@ -1,19 +1,9 @@
-> **Note:** it is my intention to eventually include this as a fully-fledged github page to help acclimate potential Arma devs with sqf best practices code optimization.
-
-As I've started to work on projects to extend the replayability of Arma, I have come to several conclusions:
-
-1. Arma is a game that rewards those who can stomach an hour so of initial setup time
-2. While there are pockets of individuals who hail from a technical background, much of the development community surrounding Arma (and FPS games in general) don't always articulate their discoveries through the same channels as other developers (i.e. [GitHub](http://github.com)).
-
-> **Disclaimer:** please note that I am not the original author of many of the scripts discussed here. I do however modify, clean, or otherwise streamline the scripts extensively to ensure that I fully understand them during the corresponding discussion, and to ensure they integrate well with the my own scripts. Adding a little commonality does great things for helping people understand something abstract, and I've tried my best to ensure that the contents of this project are as accessible as possible.
-
-### Overview
-
-I've only recently started writing sqf scripts for Arma, and while it's been a fairly easy process, I've had trouble really hitting the ground running. I feel this could be improved for others with a few *quality* resources, and therefore I will be including a series of tutorial posts on my [blog](http://devynspencer.github.io).
+Arma is a great game, and sqf is a decent enough platform for creating just about any simulation environment you can imagine. With that said, while the Arma developer community is getting better, it sucks. I'd like to do my part to change that with the following collection of tutorials, examples, snippets, and tips.
 
 As I use community scripts in my projects, I will post the cleaned up code here, along with documentation explaining the use of each script along with examples.
 
-### BIS functions
+
+### BIS Functions
 Unsure of where to start? Be sure to scrutinize the following official functions from BIS, as they add a ton of functionality and make scripting appear much less daunting (much of the *heavy lifting* of creating Arma projects has already been handled by BIS in one form or another, especially now that the series has built upon so many iterations):
 
 * [BIS_fnc_param](https://community.bistudio.com/wiki/BIS_fnc_param) - input validation and set default values
@@ -54,20 +44,13 @@ Unsure of where to start? Be sure to scrutinize the following official functions
 * [BIS_fnc_playVideo](https://community.bistudio.com/wiki/BIS_fnc_playVideo)
 * [BIS_fnc_taskPatrol](https://community.bistudio.com/wiki/BIS_fnc_taskPatrol)
 
-Additionally, here are the built in commands I found most applicable:
 
-* [setFog](https://community.bistudio.com/wiki/setFog)
-
-### Support call-ins
-
-Official BIS content:
-
+### BIS Articles
 * [Communications menu](https://community.bistudio.com/wiki/Arma_3_Communication_Menu)
 * [Notifications](https://community.bistudio.com/wiki/Notification)
 * [Add support link](https://community.bistudio.com/wiki/BIS_fnc_addSupportLink)
 * [Limit available support calls](https://community.bistudio.com/wiki/BIS_fnc_limitSupport)
 
-Other resources:
 
-* [Forum thread](http://forums.bistudio.com/showthread.php?158314-Need-a-little-help-with-a-support-module) on interactions between support modules and sqf scripts
-* [Forum thread](http://forums.bistudio.com/archive/index.php/t-165086.html) on initializing a support requester
+### Disclaimer
+Please note that I am not the original author of many of the scripts discussed here. I do however modify, clean, or otherwise streamline the scripts extensively to ensure that I fully understand them during the corresponding discussion, and to ensure they integrate well with the my own scripts.
